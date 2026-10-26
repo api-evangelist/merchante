@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MerchantE is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.merchante.com/
+MerchantE provides modern acquiring solutions for ISVs, PayFacs, ISOs, and merchants, powered by human insight. It offers a modern payment infrastructure built for builders, enabling faster integration and trusted transaction processing across multiple channels.
+
+**Areas:** Company · Payments · FinTech · API · Acquiring
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.merchante.com/)
+- [Documentation](https://developer.merchante.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/merchante/](https://apis.io/providers/merchante/).
